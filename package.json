@@ -1,0 +1,20 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "qr-code from Pavel Yakovlev",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "watch": "npx tailwindcss -i ./input.css -o ./css/main.css --watch",
+    "build": "npx tailwindcss -i ./input.css -o ./css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavelYakovlev1984/qr-code.git"
+  },
+  "author": "Pavel Yakovlev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavelYakovlev1984/qr-code/issues"
+  },
+  "homepage": "https://github.com/PavelYakovlev1984/qr-code#readme"
+}
